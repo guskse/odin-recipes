@@ -1,4 +1,4 @@
 #odin-recipes
 First commit
-Adicionado Receita da Lasanha, Pizza e X-salada
+Adicionado Receitas
 Adicionadas Imagens
