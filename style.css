@@ -1,0 +1,28 @@
+div{
+    font-size:20px;
+    text-align:left;
+    color:black;
+    font-weight:bold;
+    background-color:red;
+    width:15em;
+}
+li{
+    list-style:square;
+}
+#titulo{
+    background-color:green;
+    width:10em;
+    color:white;
+    font-size:50px;
+}
+
+.button{
+    display:flex;
+    font-size:18px;
+    background-color: orange;
+    display:inline-flex;
+}
+button:hover{
+    background-color: aqua;
+    color:white;
+}
